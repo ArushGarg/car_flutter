@@ -19,7 +19,7 @@ A feature-rich mobile application built with **Flutter** and **Firebase** that l
     <td><img src="https://github.com/user-attachments/assets/c1a24588-dee6-485b-bca4-3e50a97933e6" width="160"/></td>
     <td><img src="https://github.com/user-attachments/assets/1cb38761-586f-40cb-b968-3317e33876e7" width="160"/></td>
     <td><img src="https://github.com/user-attachments/assets/0678e087-9c9f-4aaf-a9db-29ac5dd82f29" width="160"/></td>
-    <td><img src=" https://github.com/user-attachments/assets/d3fff7ef-295e-4f23-b74f-f187bdf40d03" width="160"/></td>
+    <td><img src="https://github.com/user-attachments/assets/d3fff7ef-295e-4f23-b74f-f187bdf40d03" width="160"/></td>
   </tr>   
 </table>
 
