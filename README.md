@@ -28,7 +28,6 @@ A feature-rich mobile application built with **Flutter** and **Firebase** that l
   </tr>
 </table>
 
-> **Note:** Place your screenshots in a `screenshots/` folder at the root of the project.
 
 ---
 
