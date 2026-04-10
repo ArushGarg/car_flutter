@@ -209,8 +209,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 👤 Author
 
 **Arush Garg**  
-[![GitHub](https://img.shields.io/badge/GitHub-@ArushGarg-181717?logo=github)](https://github.com/your-username)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arush%20Garg-0077B5?logo=linkedin)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-@ArushGarg-181717?logo=github)](https://github.com/ArushGarg)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arush%20Garg-0077B5?logo=linkedin)](https://www.linkedin.com/in/arushgarg/)
 
 ---
 
